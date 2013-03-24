@@ -575,7 +575,6 @@ static int lrad_ioctx_omapget(lua_State *L)
   lua_pushinteger(L, pairsProcessed);
   return 2;
 }
-
 /**
 Execute an OSD class method on an object.
 @function exec
