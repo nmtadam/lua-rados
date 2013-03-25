@@ -33,7 +33,7 @@ http://ceph.com/docs/master/install/debian/
 
 * Install Release Key
 ```
-$ wget -q -O- 'https://ceph.com/git/?p=ceph.git;a=blob\_plain;f=keys/release.asc' | sudo apt-key add -
+$ wget -q -O- 'https://ceph.com/git/?p=ceph.git;a=blob_plain;f=keys/release.asc' | sudo apt-key add -
 ```
 * Add Release Packages
 ```
